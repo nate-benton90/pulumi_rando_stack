@@ -1,0 +1,3 @@
+name: fairwinds_alea_iacta_est
+runtime: nodejs
+description: A minimal AWS TypeScript Pulumi program
